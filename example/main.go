@@ -1,14 +1,10 @@
-# countly
-Count.ly client for golang
-
-### Usage example:
-```go
 package main
 
 import (
   "log"
   "time"
-  "github.com/vejjux/countly"
+
+  "countly"
 )
 
 func main() {
@@ -29,4 +25,3 @@ func main() {
   csEnd := cs.End()
   <- csEnd
 }
-```
