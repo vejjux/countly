@@ -1,4 +1,4 @@
-module countly
+module github.com/vejjux/countly
 
 go 1.12
 

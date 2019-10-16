@@ -4,7 +4,7 @@ import (
   "log"
   "time"
 
-  "countly"
+  "github.com/vejjux/countly"
 )
 
 func main() {

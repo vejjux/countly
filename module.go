@@ -6,7 +6,7 @@ import (
   "strconv"
   "time"
 
-  "countly/lib"
+  "github.com/vejjux/countly/lib"
 )
 
 type Countly struct {
